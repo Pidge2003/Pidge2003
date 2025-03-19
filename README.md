@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Luke!</h1>
-<h3 align="left">I'm a Web Developer with 2 and a half years experience working in both digital marketing and web agencies based in Leeds. I love all things tech and since starting my programming journey as an apprentice I have learnt so much about the world of coding. I'm currently open to work in yorkshire based software and web development roles.</h3>
+<h3 align="left">I'm a Web Developer with 2 and a half years experience working in both digital marketing and web agencies based in Leeds. I love all things tech and since starting my programming journey as an apprentice I have learnt so much about the world of coding.</h3>
 
 - I have completed courses in both **Figma web design and Shopify Development.**
 
